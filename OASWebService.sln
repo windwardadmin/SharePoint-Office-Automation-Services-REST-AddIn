@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OASWebService", "OASWebService\OASWebService.csproj", "{6397AACE-B47D-4BA8-AABF-377BC4632B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OASModels", "OASModels\OASModels.csproj", "{296F55FD-CBA1-4949-8D7E-A1F5D28EF12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OASClient", "OASClient\OASClient.csproj", "{890E158B-D47F-4F06-9215-30E37271790C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTChecker", "PPTChecker\PPTChecker.csproj", "{89268744-F8D1-4625-ACE8-2377ACBA5E2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6AAB8CE-A847-4AE8-AC2D-7D8C4BC9D51A}"
+	ProjectSection(SolutionItems) = preProject
+		client.zip = client.zip
+		install.zip = install.zip
+		Installation_Manual.pdf = Installation_Manual.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6397AACE-B47D-4BA8-AABF-377BC4632B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6397AACE-B47D-4BA8-AABF-377BC4632B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6397AACE-B47D-4BA8-AABF-377BC4632B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6397AACE-B47D-4BA8-AABF-377BC4632B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296F55FD-CBA1-4949-8D7E-A1F5D28EF12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F55FD-CBA1-4949-8D7E-A1F5D28EF12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F55FD-CBA1-4949-8D7E-A1F5D28EF12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F55FD-CBA1-4949-8D7E-A1F5D28EF12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890E158B-D47F-4F06-9215-30E37271790C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890E158B-D47F-4F06-9215-30E37271790C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890E158B-D47F-4F06-9215-30E37271790C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890E158B-D47F-4F06-9215-30E37271790C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89268744-F8D1-4625-ACE8-2377ACBA5E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89268744-F8D1-4625-ACE8-2377ACBA5E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89268744-F8D1-4625-ACE8-2377ACBA5E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89268744-F8D1-4625-ACE8-2377ACBA5E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -3,3 +3,12 @@
 ################################################################################
 
 /OASClient/bin/Debug/OASClient.vshost.exe
+/OASClient/bin/Debug
+/OASClient/bin/Release
+/OASClient/obj
+/OASModels/obj
+/OASWebService/obj
+/packages
+/PPTChecker/bin/Debug
+/PPTChecker/bin/Release
+/PPTChecker/obj
